@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://MurphyLo.github.io/sitemap.xml
